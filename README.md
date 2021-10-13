@@ -3,10 +3,10 @@
 shop application
 
 This is a shop app, I was using Flutter to build this application :
-      – State managment used Bloc.
-      – Apis (Dio).
-      – Dark mode.
-      – Change Languges (English, Arabic).
+State managment used Bloc.
+Apis (Dio).
+Dark mode.
+Change Languges (English, Arabic).
       – beautiful UI and good UX.
       – four onbording screen.
       – Login and register screens.
