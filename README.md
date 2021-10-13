@@ -2,5 +2,19 @@
 
 shop application
 
-## Ecommerce app on Youtube
-https://www.youtube.com/watch?v=uKV-xf-1hL0&list=PLlFHzIV6ldTGzTyDXgLPyr2H8uPDbGun_&index=1
+This is a shop app, I was using Flutter to build this application :
+      – State managment used Bloc.
+      – Apis (Dio).
+      – Dark mode.
+      – Change Languges (English, Arabic).
+      – beautiful UI and good UX.
+      – four onbording screen.
+      – Login and register screens.
+      – Product screen.
+      – Product details screen.
+      – Caregories screen.
+      – Favorits screen.
+      – In cart screen (show bottom sheet).
+      – Edit profil screen.
+      – Settings screen.
+      – Search screen.
